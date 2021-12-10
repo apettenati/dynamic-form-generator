@@ -6,7 +6,13 @@ export interface FormData {
   conditional?: Conditional
 }
 
-interface Conditional {
+export interface Conditional {
   name: string
-  show_if: string
+  show_if: (value: any) => boolean
+}
+
+export interface FormStateItem {
+  name: string
+  value: string
+  type: string
 }
