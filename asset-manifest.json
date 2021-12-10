@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dynamic-form-generator/static/css/main.6f3148cd.chunk.css",
+    "main.js": "/dynamic-form-generator/static/js/main.2df3b75a.chunk.js",
+    "main.js.map": "/dynamic-form-generator/static/js/main.2df3b75a.chunk.js.map",
+    "runtime-main.js": "/dynamic-form-generator/static/js/runtime-main.52631d71.js",
+    "runtime-main.js.map": "/dynamic-form-generator/static/js/runtime-main.52631d71.js.map",
+    "static/js/2.e06d4996.chunk.js": "/dynamic-form-generator/static/js/2.e06d4996.chunk.js",
+    "static/js/2.e06d4996.chunk.js.map": "/dynamic-form-generator/static/js/2.e06d4996.chunk.js.map",
+    "index.html": "/dynamic-form-generator/index.html",
+    "static/css/main.6f3148cd.chunk.css.map": "/dynamic-form-generator/static/css/main.6f3148cd.chunk.css.map",
+    "static/js/2.e06d4996.chunk.js.LICENSE.txt": "/dynamic-form-generator/static/js/2.e06d4996.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52631d71.js",
+    "static/js/2.e06d4996.chunk.js",
+    "static/css/main.6f3148cd.chunk.css",
+    "static/js/main.2df3b75a.chunk.js"
+  ]
+}
